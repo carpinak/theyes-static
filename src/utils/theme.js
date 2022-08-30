@@ -74,6 +74,7 @@ export const COLORS = {
   yesBlack: "#000000",
 };
 
+/* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
 export default {
   bgPrimary: COLORS.yesBlue,
   bgSeconday: "",
