@@ -1,6 +1,7 @@
 # THE YES static website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app),
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 It inherits its components from the original theyes.com website.
 
 ## Available Scripts
